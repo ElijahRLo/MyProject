@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/eli/Documents/CS415Projects/project415/BasementGame/Content/Level0.umap",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Level0.umap",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Megascans/Surfaces/Patterned_Ceramic_Tiles_tmehfhnfw/T_Patterned_Ceramic_Tiles_tmehfhnfw_2K_D.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Megascans/Surfaces/Patterned_Ceramic_Tiles_tmehfhnfw/T_Patterned_Ceramic_Tiles_tmehfhnfw_2K_N.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Megascans/Surfaces/Patterned_Ceramic_Tiles_tmehfhnfw/T_PatternedCeramicTiles_tmehfhnfw_2K_ORDp.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Megascans/Surfaces/Patterned_Ceramic_Tiles_tmehfhnfw/MI_Patterned_Ceramic_Tiles_tmehfhnfw_2K.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Megascans/Surfaces/Slate_Flooring_wfqhbdh/Preview/MI_Slate_Flooring_wfqhbdh_1K.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Megascans/Surfaces/Verde_Guatemala_Marble_Tiles_wgildgjv/T_Verde_Guatemala_Marble_Tiles_wgildgjv_2K_D.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Megascans/Surfaces/Verde_Guatemala_Marble_Tiles_wgildgjv/T_Verde_Guatemala_Marble_Tiles_wgildgjv_2K_N.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Megascans/Surfaces/Verde_Guatemala_Marble_Tiles_wgildgjv/T_VerdeGuatemalaMarbleTiles_wgildgjv_2K_ORDp.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Megascans/Surfaces/Verde_Guatemala_Marble_Tiles_wgildgjv/MI_Verde_Guatemala_Marble_Tiles_wgildgjv_2K.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/_GENERATED/Box_30AC7611.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/_GENERATED/Box_34BDAA18.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/_GENERATED/Box_3A552226.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/_GENERATED/Box_42C9D33D.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Materials/M_EmissiveGreen.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Materials/M_Floor.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Materials/M_PopcornWall.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/Materials/M_Test.uasset",
+				"C:/Users/eli/Documents/Unreal Projects/MyProject/Content/StarterContent/Materials/M_Test_Moss.uasset"
+			]
+		}
+	]
+}
